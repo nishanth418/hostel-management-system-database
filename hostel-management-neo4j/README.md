@@ -11,6 +11,13 @@ A modern, high-performance **University Hostel Administration & Campus Logistics
 The platform equips university administrators, residence wardens, mess caterers, and accounting staff with an enterprise-grade operational hub for resident student allocation, multi-block room reservations, dining hall provisioning, staff payroll, vendor procurement, pre-compiled analytical intelligence reporting, and arbitrary Cypher / Graph query execution.
 
 ---
+## 🔗 🌐 Live Website
+
+| Service | Hosting Platform | Working Application Link | Status |
+|---|---|---|---|
+| Hostel Management Application | Vercel | [da-3-database.vercel.app](https://da-3-database.vercel.app/) | 🟢 **Live & Operational** |
+
+> 🚀 **Public Access:** The live application is hosted on Vercel and publicly accessible without any login wall.
 
 ## 🏛 System Architecture
 
