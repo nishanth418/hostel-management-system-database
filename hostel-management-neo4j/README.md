@@ -18,6 +18,7 @@ The platform equips university administrators, residence wardens, mess caterers,
 | Hostel Management Application | Vercel | [da-3-database.vercel.app](https://da-3-database.vercel.app/) | 🟢 **Live & Operational** |
 
 > 🚀 **Public Access:** The live application is hosted on Vercel and publicly accessible without any login wall.
+---
 
 ## 🏛 System Architecture
 
