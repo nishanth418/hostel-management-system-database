@@ -13,16 +13,6 @@ The platform equips university administrators, residence wardens, mess caterers,
 
 ---
 
-## 🌐 Live Website
-
-| Service | Hosting Platform | Working Application Link | Status |
-| :--- | :--- | :--- | :--- |
-| **HostelHub Application** | **Vercel** | [hostel-management-system-database-system-ao5stctla-nkp5.vercel.app](https://hostel-management-system-database-system-ao5stctla-nkp5.vercel.app/) | ![Live](https://img.shields.io/badge/Status-Live%20%26%20Operational-success?style=flat-square) |
-
-> 🚀 **Public Access**: The live application is hosted on Vercel and publicly accessible without any login wall.
-
----
-
 ## 🏛 System Architecture
 
 ```text
