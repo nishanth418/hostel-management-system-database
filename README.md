@@ -7,7 +7,7 @@ Welcome to the **Hostel Management Combined** repository. This monorepo houses *
 ## 📁 Repository Structure
 
 ```text
-hostel-management-combined/
+hostel-management-system/
 │
 ├── .gitignore                     # Monorepo root gitignore rules
 ├── README.md                      # Monorepo architecture & navigation guide
