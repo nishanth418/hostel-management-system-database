@@ -1,4 +1,4 @@
-# Hostel Management System — Combined Monorepo
+# Hostel Management System
 
 Welcome to the **Hostel Management Combined** repository. This monorepo houses **two completely independent, production-ready editions** of the Hostel Management System, each powered by a different database engine and data model.
 
